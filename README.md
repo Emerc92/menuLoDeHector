@@ -1,2 +1,2 @@
-# menuLoDeHector
-QuarCode with link to restaurant menu
+# menu Lo De Hector (restaurant menu "to Hector")
+QuarCode for restaurant menu using google drive as cloud
