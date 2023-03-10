@@ -3,7 +3,7 @@ import qrcode
 from PIL import Image
 
 #####################################################
-###### CREAZIONE QRCODE PER MENU RESTAURANT LO DE HECTOR #########
+###### CREAZIONE QRCODE PER MENU RESTAURANT 'LO DE HECTOR' #########
 #####################################################
 
 # apro il logo
